@@ -1,0 +1,11 @@
+{
+  "name": "Google Cloud Platform",
+  "description": "This theme includes element styles with icons for each of the GCP services, based upon the official set of icons to build architectural diagrams of Google Cloud Platform (https://cloud.google.comicons).",
+  "elements": [
+    {
+      "tag": "Oynx Workspace",
+      "stroke": "#de5d1d",
+      "color": "#de5d1d"
+    }   
+  ]
+}
