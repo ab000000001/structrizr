@@ -4,8 +4,9 @@
   "elements": [
     {
       "tag": "Oynx - Workspace",
-      "stroke": "#de5d1d",
-      "color": "#de5d1d"
+      "stroke": "#572702",
+      "color": "#ffffff",
+      "background" : "#d46d1e"
     }   
   ]
 }
