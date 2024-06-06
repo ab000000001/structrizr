@@ -7,6 +7,12 @@
       "stroke": "#205A28",
       "color": "#ffffff",
       "background" : "#3FA44D"
-    }   
+    },
+    {
+      "tag": "ARC - Web Service",
+      "stroke": "#205A28",
+      "color": "#ffffff",
+      "background" : "#3FA44D"
+    } 
   ]
 }
