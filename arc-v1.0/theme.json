@@ -1,0 +1,12 @@
+{
+  "name": "ARC",
+  "description": "This theme includes element styles with icons for each of the Onyx services, based upon the official set of icons to build architectural diagrams of Google Cloud Platform (https://cloud.google.comicons).",
+  "elements": [
+    {
+      "tag": "ARC - Workspace",
+      "stroke": "#205A28",
+      "color": "#ffffff",
+      "background" : "#3FA44D"
+    }   
+  ]
+}
